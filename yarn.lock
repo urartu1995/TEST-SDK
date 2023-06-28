@@ -1199,57 +1199,6 @@ agent-base@6:
   dependencies:
     debug "4"
 
-aigx-test-sdk@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/aigx-test-sdk/-/aigx-test-sdk-0.0.1.tgz#efeb03ad8d43fcaaf2764d00c39c84cb65fb435e"
-  integrity sha512-3YrekDfYeLkbr6Ju8VFp7UUSThobuBOvl6nNM5DqVAKADQjl7CM55K4a+hwp0DRhJra8NEwsaiyjrbIMJ+A8Ng==
-  dependencies:
-    "@json2csv/plainjs" "^6.1.3"
-    "@koa/cors" "^4.0.0"
-    "@sendgrid/mail" "^7.7.0"
-    aws-sdk "^2.1363.0"
-    axios "^1.4.0"
-    base58 "^2.0.1"
-    bcrypt "^5.1.0"
-    body-parser "^1.20.2"
-    bs58 "^5.0.0"
-    bunyan "^1.8.12"
-    child_process "^1.0.2"
-    colors "^1.4.0"
-    compression "^1.7.1"
-    config "^3.3.9"
-    cookie-parser "~1.4.3"
-    cors "^2.8.4"
-    crypto2 "^2.0.0"
-    cryptr "^6.2.0"
-    debug "~2.6.9"
-    express "^4.16.2"
-    file-stream-rotator "^1.0.0"
-    firebase-admin "^11.7.0"
-    generate-password "^1.7.0"
-    jsonwebtoken "^9.0.0"
-    jwk-to-pem "^2.0.5"
-    koa "^2.5.3"
-    koa-body "^6.0.1"
-    koa-compose "^4.1.0"
-    koa-morgan "^1.0.1"
-    koa-router "^7.4.0"
-    lodash "^4.17.5"
-    moment "^2.22.2"
-    mongodb-migrate "^2.0.2"
-    mongoose "^7.0.4"
-    mongoose-paginate "^5.0.3"
-    nconf "^0.12.0"
-    node-schedule "^2.1.1"
-    qrcode "^1.5.3"
-    read "^2.1.0"
-    request-promise "^0.0.1"
-    sharp "^0.32.0"
-    socket.io-client "^4.6.1"
-    speakeasy "^2.0.0"
-    uuid4 "^2.0.3"
-    winston "^3.8.2"
-
 ajv@^6.10.2, ajv@^6.9.1:
   version "6.12.6"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.12.6.tgz#baf5a62e802b07d977034586f8c3baf5adf26df4"
@@ -5735,7 +5684,7 @@ setprototypeof@1.2.0:
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.2.0.tgz#66c9a24a73f9fc28cbe66b09fed3d33dcaf1b424"
   integrity sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==
 
-sharp@^0.32.0:
+sharp@^0.32.1:
   version "0.32.1"
   resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.32.1.tgz#41aa0d0b2048b2e0ee453d9fcb14ec1f408390fe"
   integrity sha512-kQTFtj7ldpUqSe8kDxoGLZc1rnMFU0AO2pqbX6pLy3b7Oj8ivJIdoKNwxHVQG2HN6XpHPJqCSM2nsma2gOXvOg==
