@@ -1,0 +1,61 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1683832884525,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/access-20230511.log",
+            "hash": "03c7f6a174bf30ddeb058074deaee459"
+        },
+        {
+            "date": 1683832884529,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/error-20230511.log",
+            "hash": "f965d41d1f5be7e841e8534a40e991aa"
+        },
+        {
+            "date": 1684352110233,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/access-20230517.log",
+            "hash": "e25a325bca003cf47561db1906d35609"
+        },
+        {
+            "date": 1684352110235,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/error-20230517.log",
+            "hash": "2dff78b30bc1676d7729ca8a7710a958"
+        },
+        {
+            "date": 1684773732101,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/access-20230522.log",
+            "hash": "bd1ef3f9d8721cd171a9866c638341c0"
+        },
+        {
+            "date": 1684773732104,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/error-20230522.log",
+            "hash": "363b58c604fdf45819a55968a9030025"
+        },
+        {
+            "date": 1685009794132,
+            "name": "/Users/urartughukasyan/Desktop/project/AI_ID/AI-ID/apps/api/../../storage/logs/access-20230525.log",
+            "hash": "81040c5bdbf1fe5cf1d4763da536ba57"
+        },
+        {
+            "date": 1685009794133,
+            "name": "/Users/urartughukasyan/Desktop/project/AI_ID/AI-ID/apps/api/../../storage/logs/error-20230525.log",
+            "hash": "df0045cdf1a7c6f9f178b7e3365e4fb3"
+        },
+        {
+            "date": 1685517043952,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/access-20230531.log",
+            "hash": "eb05009096727ca7c0fa69708cd737e8"
+        },
+        {
+            "date": 1685517043955,
+            "name": "/Users/michaelvalasanyan/projects/AIID/aiid-be/apps/api/../../storage/logs/error-20230531.log",
+            "hash": "c94f93b77ed20e2ad91eafb63adc0947"
+        }
+    ]
+}

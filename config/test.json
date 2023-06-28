@@ -1,0 +1,42 @@
+{
+	"host": "localhost",
+	"port": 3000,
+	"mongoDB": {
+		"host": "localhost",
+		"port": 3979,
+		"database": "aiid-db"
+	},
+	"logging": {
+		"enableSentryStream": false
+	},
+	"authorizationJWTPrefix": "aiid-api",
+	"authorizationUUIDPrefix": "aiid",
+	"jwt":{
+		"apiKeySuperSecret": "~F6Wc&a^s+[G6-MmCGu+",
+		"activationEmailTokenSignatureSecret": "SDKJN)(*Fjsf)9sf-",
+        "forgotPasswordEmailTokenSignatureSecret": "SFHI_*S&F))__)(*&",
+		"activationEmailExpirationDueDays": 40,
+		"forgotPasswordExpirationDueDays": 10,
+		"apiKeyExpirationDueDays": 100
+	},
+	"directRegistration": false,
+	"mail": {
+		"enabled": false,
+		"apiKey": "NEED TO PROVIDE KEY FOR EMAIL ENGINE",
+		"noreplyEmail": "AIID <aiid@mailinator.com>",
+		"welcomeEmailSubject": "Welcome to AIID",
+		"accountActivationEmailSubject": "Welcome to AIID",
+		"forgotPasswordEmailSubject": "Forgotten password for AIID",
+		"merchantUpdatedSubject": "Merchant updated"
+	},
+	"portalUrl": "http://localhost:3000",
+	"authorizationHeaderKey": "Authorization",
+	"authorizationInfoPrefix": "ai-id",
+	"sessionExpiration": 3456000,
+	"sessionGCProbability": 1,
+	"keyForEncodePassword": "ai-id-ete-encryptapatest-develop",
+	"aesIVSecret": "MPzymJhDjuAJ1mgn",
+	"defaultPageLimit": 10,
+	"isProduction": false
+
+}

@@ -1,0 +1,7 @@
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+.idea
+/storage/logs
+/logs
+node_modules

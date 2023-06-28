@@ -1,0 +1,12 @@
+{
+  "host": "http://localhost:9018/api/v1",
+  "authorizationHeaderKey": "Authorization",
+  "authorizationJWTPrefix": "ai-id-api",
+  "authorizationInfoPrefix": "ai-id",
+
+  "defaultPageLimit": 10,
+  "defaultTimeZone": "UTC",
+
+  "version": "0.0.1",
+  "isProduction": false
+}
