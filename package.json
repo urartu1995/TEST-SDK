@@ -1,7 +1,7 @@
 {
   "name": "aigx-test-sdk",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "description": "",
   "author": "AIID LLC",
   "license": "ISC",
@@ -64,7 +64,6 @@
     "qrcode": "^1.5.3",
     "read": "^2.1.0",
     "request-promise": "^0.0.1",
-    "sharp": "^0.32.0",
     "socket.io-client": "^4.6.1",
     "speakeasy": "^2.0.0",
     "uuid4": "^2.0.3",
