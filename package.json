@@ -1,6 +1,6 @@
 {
   "name": "aigx-test-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "",
   "author": "AIID LLC",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AI-ID-AM/AI-ID-Node-SDK.git"
+    "url": "https://github.com/urartu1995/TEST-SDK"
   },
   "scripts": {
     "start": "node apps/api/app.js",
@@ -64,7 +64,6 @@
     "qrcode": "^1.5.3",
     "read": "^2.1.0",
     "request-promise": "^0.0.1",
-    "sharp": "^0.32.1",
     "socket.io-client": "^4.6.1",
     "speakeasy": "^2.0.0",
     "uuid4": "^2.0.3",

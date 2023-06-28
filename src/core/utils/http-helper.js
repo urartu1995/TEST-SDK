@@ -1,6 +1,5 @@
 
 'use strict';
-const sharp = require('sharp');
 // const sdkConfig = require('config');
 // const rp = require('request-promise');
 const axios = require('axios');
