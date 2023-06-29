@@ -6,7 +6,7 @@ const axios = require('axios');
 // "host": "http://localhost:9018/api/v1",
 //https://ew6i64bdoc.execute-api.us-west-2.amazonaws.com/dev/api/v1
 let sdkConfig = {
-    "host": "http://localhost:9018/api/v1",
+    "host": "https://ew6i64bdoc.execute-api.us-west-2.amazonaws.com/dev/api/v1",
     "authorizationHeaderKey": "Authorization",
     "authorizationJWTPrefix": "ai-id-api",
     "authorizationInfoPrefix": "ai-id",
